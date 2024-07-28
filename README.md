@@ -1,2 +1,2 @@
 
-# 놀이터 개장 (2024.07.27)
+# Start to code for development (2024.07.27)
